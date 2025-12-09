@@ -1,0 +1,29 @@
+      body {
+        background: #ffeefe;
+        font-family: "Comic Sans MS", "Nunito", sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .box {
+        background: #fff;
+        padding: 40px 60px;
+        border-radius: 30px;
+        box-shadow: 0 0 20px rgba(255, 150, 200, 0.4);
+        text-align: center;
+        border: 3px dashed #ff9acb;
+      }
+
+      h1 {
+        color: #ff6fb5;
+        font-size: 3rem;
+        margin: 0;
+      }
+
+      .sparkles {
+        font-size: 2rem;
+        margin-top: 10px;
+      }
